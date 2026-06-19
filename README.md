@@ -1,7 +1,3 @@
-## Hi👋
-
-<!--
-
 # Hi 👋 I'm Sathishkumar
 
 🎓 AIML Student
@@ -19,5 +15,3 @@
 
 📫 Connect with me:
 LinkedIn (Coming Soon)
-
--->
