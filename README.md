@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi👋
 
 <!--
-**Sathish23-S/Sathish23-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi 👋 I'm Sathishkumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 AIML Student
+
+🌱 Currently Learning:
+- Python
+- Git & GitHub
+- HTML, CSS, JavaScript
+- AI & Machine Learning
+
+🚀 Goals:
+- Build Projects
+- Contribute to Open Source
+- Get an Internship
+
+📫 Connect with me:
+LinkedIn (Coming Soon)
+
 -->
