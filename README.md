@@ -79,7 +79,7 @@ I'm currently exploring and building my foundation in:
 ## 📚 Currently Learning
 
 text
-Artificial Intelligence     █████████░░░
+Artificial Intelligence     █████████░░░ <br>
 Machine Learning             ████████░░░░
 Python Development           ██████████░░
 Web Development              ████████░░░░
