@@ -78,8 +78,8 @@ I'm currently exploring and building my foundation in:
 
 ## 📚 Currently Learning
 
-text
-Artificial Intelligence     █████████░░░ <br>
+```text
+Artificial Intelligence     █████████░░░
 Machine Learning             ████████░░░░
 Python Development           ██████████░░
 Web Development              ████████░░░░
@@ -183,4 +183,4 @@ Continuously learn emerging technologies
 
 </div> <!-- ======================= FOOTER ======================= --> <div align="center">
 🚀 Learning • Building • Experimenting • Improving
-</div> 
+</div> ```
