@@ -1,15 +1,186 @@
+<!-- ======================= HEADER ======================= -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sathish23-S&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Sathish23-S&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sathish23-S&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 👋 Hi, I'm Sathishkumar S
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sathish23-S&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🤖 AI & Machine Learning Engineering Student | Developer | Builder
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://github.com/Sathish23-S">
+  <img src="https://img.shields.io/badge/GitHub-Sathish23--S-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:sathishkumarsrinivas23@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineering+Student;Python+Developer;Building+Intelligent+Applications;Learning+%7C+Building+%7C+Improving;Future+AI%2FML+Engineer+%F0%9F%9A%80" alt="Typing Animation"/>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm **Sathishkumar S**, an **AI & Machine Learning Engineering student** passionate about technology, programming, and building practical applications.
+
+I enjoy exploring different areas of software development while focusing on **Python, AI/ML, web technologies, and intelligent applications**.
+
+Currently, I'm strengthening my development skills, building projects, and continuously exploring the world of **Artificial Intelligence and Machine Learning**.
+
+> 🚀 Learn. Build. Experiment. Improve.
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,javascript" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+---
+
+## 🤖 AI & Machine Learning
+
+My primary area of interest is **Artificial Intelligence and Machine Learning**.
+
+I'm currently exploring and building my foundation in:
+
+- 🧠 Artificial Intelligence
+- 📊 Machine Learning
+- 🐍 Python for AI/ML
+- 🤖 Intelligent Applications
+- 🎙️ AI-powered Voice Applications
+- 🔬 Practical AI/ML Projects
+
+---
+
+## 📚 Currently Learning
+
+text
+Artificial Intelligence     █████████░░░
+Machine Learning             ████████░░░░
+Python Development           ██████████░░
+Web Development              ████████░░░░
+Backend Development          ███████░░░░░
+Database Integration         ████████░░░░
+
+My goal is not just to learn technologies, but to use them to build real-world applications.
+
+🚀 Featured Project
+🎙️ Personal Voice Assistant
+
+A personal voice assistant project focused on creating an interactive application that can listen, understand commands, and perform useful actions.
+
+✨ Focus Areas
+🎤 Speech Recognition
+🔊 Text-to-Speech
+🧠 Command Processing
+🌐 Information Retrieval
+⚙️ Task Automation
+🐍 Python-based development
+🧰 Technologies
+
+Python Speech Recognition Text-to-Speech Automation
+
+🔨 Continuously improving this project while learning more about AI and intelligent applications.
+
+🎯 Current Focus
+🤖 Building a strong foundation in AI & Machine Learning
+🐍 Improving Python development skills
+💻 Building practical software projects
+🌐 Strengthening web development
+⚙️ Exploring backend development
+🗄️ Improving database integration
+🧠 Learning how intelligent applications are built
+🚀 Preparing for internships and future opportunities
+📈 My Development Journey
+Programming
+     ↓
+Software Development
+     ↓
+Web Development
+     ↓
+Backend & Databases
+     ↓
+Artificial Intelligence
+     ↓
+Machine Learning
+     ↓
+Real-World AI Applications
+
+I'm continuously working towards becoming a professional AI/ML Engineer capable of building useful and intelligent software.
+
+📊 GitHub Analytics
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sathish23-S&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathish23-S&layout=compact&theme=tokyonight&hide_border=true" /> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=Sathish23-S&theme=tokyonight&hide_border=true" /> </div>
+📈 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sathish23-S&theme=tokyo-night&hide_border=true" /> </div>
+🧰 Tools I Use
+Category	Tools
+💻 IDE	VS Code
+🔀 Version Control	Git
+🐙 Repository	GitHub
+🐍 Development	Python
+🗄️ Database	MySQL
+🌐 Web	HTML, CSS, JavaScript
+⚛️ Frontend	React
+🟢 Backend	Node.js
+💡 What I'm Interested In
+Artificial Intelligence
+        +
+Machine Learning
+        +
+Python
+        +
+Software Development
+        +
+Intelligent Applications
+        =
+🚀 Building Useful AI Solutions
+🌱 Goals
+Short-Term
+Build more practical projects
+Strengthen Python
+Learn Machine Learning deeply
+Improve development skills
+Build a strong GitHub portfolio
+Long-Term
+Become a professional AI/ML Engineer
+Build production-ready intelligent applications
+Work on meaningful AI projects
+Contribute to the developer community
+Continuously learn emerging technologies
+📫 Let's Connect
+<div align="center"> <a href="https://github.com/Sathish23-S"> <img src="https://img.shields.io/badge/GitHub-Sathish23--S-181717?style=for-the-badge&logo=github" /> </a> <a href="mailto:sathishkumarsrinivas23@gmail.com"> <img src="https://img.shields.io/badge/Gmail-sathishkumarsrinivas23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div>
+<div align="center">
+💭 "Build something. Learn something. Improve every day."
+<br> <img src="https://komarev.com/ghpvc/?username=Sathish23-S&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+
+<br><br>
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div> <!-- ======================= FOOTER ======================= --> <div align="center">
+🚀 Learning • Building • Experimenting • Improving
+</div> 
